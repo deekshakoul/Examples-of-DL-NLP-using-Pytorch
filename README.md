@@ -4,6 +4,8 @@ a.  MNIST handwritten data set using FNN model architecture along with Pytorch
 
 b.  Sentiment Analsys of movie reviews using LSTM and Pytorch
 
+Classifying movie reviews of data-set mentioned in Pang and Lee, 2005 and handling out of vocabulary words and variable length sequences using Pytorch’s torchtext and Pack Padding sequence respectively along with GloVe word embeddings for model.
+
 Resources:
 
 For more theoritical understanding of LSTM network, refer: 
